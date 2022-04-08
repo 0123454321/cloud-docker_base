@@ -1,0 +1,5 @@
+services:
+  study:
+    build: .
+    ports:
+      - 80:80
